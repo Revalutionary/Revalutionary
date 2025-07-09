@@ -21,3 +21,5 @@
 12. C#
 13. Java
 14. Go
+
+[![yeee](https://github-readme-stats-rose-eta-86.vercel.app/api/top-langs/?username=Revalutionary&count_private=true&theme=shadow_red&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
