@@ -10,16 +10,15 @@
 
 1. C++/C
 2. Rust
-3. R
-4. CSS
-5. Ruby
-6. Javascript/Typescript
-8. HTML
-9. SQL
-10. PHP
-11. Swift
-12. C#
-13. Java
-14. Go
+3. Ruby
+4. R
+5. Javascript/Typescript
+6. HTML/CSS
+7. SQL
+8. PHP
+9. Swift
+10. C#
+11. Java
+12. Go
 
 [![yeee](https://github-readme-stats-rose-eta-86.vercel.app/api/top-langs/?username=Revalutionary&count_private=true&theme=shadow_red&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
