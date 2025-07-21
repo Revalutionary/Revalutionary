@@ -6,6 +6,12 @@
   
 ---
 
+## Currently Learning:
+
+C++
+
+---
+
 ## List of languages I want to know (in order of learning):
 
 1. C++/C
@@ -20,5 +26,6 @@
 10. C#
 11. Java
 12. Go
+13. Whitespace
 
 [![yeee](https://github-readme-stats-rose-eta-86.vercel.app/api/top-langs/?username=Revalutionary&count_private=true&theme=shadow_red&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
