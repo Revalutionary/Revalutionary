@@ -17,15 +17,16 @@ C++
 1. C++/C
 2. Rust
 3. Ruby
-4. R
-5. Javascript/Typescript
-6. HTML/CSS
-7. SQL
-8. PHP
-9. Swift
-10. C#
-11. Java
-12. Go
-13. Whitespace
+4. Lua
+5. R
+6. Javascript/Typescript
+7. HTML/CSS
+8. SQL
+9. PHP
+10. Swift
+11. C#
+12. Java
+13. Go
+14. Whitespace
 
 [![yeee](https://github-readme-stats-rose-eta-86.vercel.app/api/top-langs/?username=Revalutionary&count_private=true&theme=shadow_red&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
