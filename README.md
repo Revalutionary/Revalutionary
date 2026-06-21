@@ -8,7 +8,7 @@
 
 # List of languages I want to know (in order of learning):
 
-__Currently learning: C/C++__
+__Currently learning: Rust__
 
 Key:
 
@@ -16,12 +16,12 @@ __🕧 = progress__ <br>
 __✅ = done__ <br>
 __⚫ = installed but no progress__ <br> <br>
 
-1. C++/C 🕧
-2. Rust ⚫
+1. C++/C✅
+2. Rust  🕧
 3. Ruby ⚫
 4. R
 5. Javascript/Typescript/Vue/React 🕧
-6. HTML/CSS ⚫
+6. HTML/CSS 🕧
 7. Go
 8. Lua ⚫
 9. SQL
@@ -30,6 +30,5 @@ __⚫ = installed but no progress__ <br> <br>
 12. C#
 13. Java
 14. Whitespace
-15. SPWN
 
 [![yeee](https://github-readme-stats-rose-eta-86.vercel.app/api/top-langs/?username=Revalutionary&count_private=true&theme=shadow_red&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
