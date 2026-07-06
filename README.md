@@ -1,6 +1,6 @@
 ## Hello to the 3 people who ever read this, I am Revalutionary
 
-  I love programming a lot and so ever since I started it I've wanted to conquer a bunch of new programming languages one by one. Unfortunately I suck at learning this stuff so I'm not too familiar with many languages at all. So far I have only learnt Python, JS/TS, C/C++, and Rust, but I am trying to learn Ruby right now and hope to learn R after that (don't ask why I chose these I just did). I'm a contributer to a Geometry Dash list known as "The Shitty list" (TSL) where I add a bunch of records every once in a while.
+  I love programming a lot and so ever since I started it I've wanted to conquer a bunch of new programming languages one by one. Unfortunately I suck at learning this stuff so I'm not too familiar with many languages at all. So far I have only learnt Python, JS/TS, C/C++, Rust, and Ruby, but I am trying to learn R right now and hope to learn Vue and React after that (don't ask why I chose these I just did). I'm a contributer to a Geometry Dash list known as "The Shitty list" (TSL) where I add a bunch of records every once in a while.
 
   I'm a pretty boring person but I guess outside of programming I like playing music and doing competitive math which is probably why I butchered the spelling of half of these words.
 
@@ -18,7 +18,7 @@ __⚫ = installed but no progress__ <br> <br>
 
 1. C++/C✅
 2. Rust ✅
-3. Ruby🕧
+3. Ruby✅
 4. R
 5. Javascript/Typescript/Vue/React 🕧
 6. HTML/CSS 🕧
